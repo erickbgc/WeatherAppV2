@@ -1,4 +1,4 @@
-# WeatherAppV2
+# WeatherApp TS
 
 ### The Weather App maded it by Fazt (youtube channel) but coded with Typescript
 
